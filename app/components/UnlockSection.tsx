@@ -13,7 +13,7 @@ const UnlockSection = () => {
         ></Image>
       </div>
       <div className="content-center">
-        <h1 className="text-3xl">
+        <h1 className="text-3xl font-semibold">
           The unseen of spending three years at Pixelgrade
         </h1>
         <p className="text-[#89939E] font-light py-5">
