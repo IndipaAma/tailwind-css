@@ -1,4 +1,5 @@
 import AchivementSection from "./components/AchivementSection";
+import CalenderSection from "./components/CalenderSection";
 import Clients from "./components/Clients";
 import Community from "./components/Community";
 import HeroSection from "./components/HeroSection";
@@ -14,6 +15,7 @@ export default function Home() {
       <Community />
       <UnlockSection />
       <AchivementSection />
+      <CalenderSection />
     </main>
   );
 }
