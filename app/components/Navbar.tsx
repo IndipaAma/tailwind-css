@@ -6,7 +6,7 @@ import Right from "../../public/Right.svg";
 
 const Navbar = () => {
   return (
-    <nav className="flex justify-between p-5 items-center">
+    <nav className="flex justify-between p-2 items-center">
       <div>
         <Image src={Logo} alt="Logo"></Image>
       </div>

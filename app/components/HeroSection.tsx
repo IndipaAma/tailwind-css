@@ -4,7 +4,7 @@ import MainImage from "../../public/Illustration.svg";
 
 const HeroSection = () => {
   return (
-    <div className="flex mt-10 py-20 items-center justify-center gap-50 ">
+    <div className="flex  py-20 items-center justify-center gap-50 px-25 bg-[#F5F7FA]">
       <div>
         <h1 className="text-6xl font-semibold text-[#4D4D4D]">
           Lessons and Insight
